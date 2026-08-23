@@ -3,6 +3,9 @@ This repository contains a collection of SQL scripts demonstrating various analy
 
 
 
+<img width="1843" height="696" alt="image" src="https://github.com/user-attachments/assets/bff7feb1-ef23-486a-9019-593aa80e2057" />
+
+
 <img width="759" height="720" alt="image" src="https://github.com/user-attachments/assets/3a0a9b8a-d946-4827-90e4-34bc4058af32" />
 
 
@@ -10,7 +13,6 @@ This repository contains a collection of SQL scripts demonstrating various analy
 
 
 <img width="1843" height="696" alt="image" src="https://github.com/user-attachments/assets/bff7feb1-ef23-486a-9019-593aa80e2057" />
-
 
 
 
