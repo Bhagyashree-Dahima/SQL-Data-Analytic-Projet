@@ -5,3 +5,6 @@ This repository contains a collection of SQL scripts demonstrating various analy
 <img width="756" height="704" alt="image" src="https://github.com/user-attachments/assets/ce58eee9-2591-404a-8d01-a759c5bb7ddd" />
 
 <img width="1843" height="696" alt="image" src="https://github.com/user-attachments/assets/bff7feb1-ef23-486a-9019-593aa80e2057" />
+
+
+It is a Practice Project.
